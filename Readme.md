@@ -8,7 +8,7 @@ Welcome to the **Comprehensive Python Web Apps** repository! This repository hou
 2. [Projects](#projects)
    - [1. Insurance Predictor](#1-insurance-predictor)
    - [2. Calories Burner Tracking App](#2-calories-burner-tracking-app)
-   - [3. STEAMLIT BASICS](#3-steamlab-basics)
+   - [3. STEAMLIT BASICS](#3-steamlit-basics)
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Dependencies](#dependencies)
@@ -73,6 +73,7 @@ STEAMLAB BASICS is a collection of Python scripts and web applications that demo
 #### Demo
 
 ![STEAMLAB BASICS](Demo/demo3.png)
+
 *Overview of STEAMLAB BASICS.*
 
 ## Installation
@@ -80,7 +81,7 @@ STEAMLAB BASICS is a collection of Python scripts and web applications that demo
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/addygeek/Insurance_Prediction-Calories_Tracking_Python_Web_App.git
-   cd Comprehensive-Python-Web-Apps
+   cd Python Stream Lab Projects
    ```
 
 2. **Install dependencies:**
