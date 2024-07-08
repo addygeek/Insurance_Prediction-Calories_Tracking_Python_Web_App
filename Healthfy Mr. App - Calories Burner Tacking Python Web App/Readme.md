@@ -21,10 +21,10 @@ The Calories Burner Tracking App is designed to help users estimate the number o
 
 ## Demo
 
-![Input](images/input.png)
+![Input](images/Input.png)
 *User inputs for the calories burner tracking app.*
 
-![Output](images/output.png)
+![Output](images/Output.png)
 *Predicted calories burned displayed as output.*
 
 ## Features
