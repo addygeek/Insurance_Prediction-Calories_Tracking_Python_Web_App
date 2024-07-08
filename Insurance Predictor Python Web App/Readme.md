@@ -30,7 +30,7 @@ This is a Streamlit web application that predicts health insurance premiums base
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/addygeek/Python-Webapps-Streamlit.git
+    git clone https://github.com/addygeek/Insurance_Prediction-Calories_Tracking_Python_Web_App.git
     cd Insurance Predictor Python Web App
     ```
 
